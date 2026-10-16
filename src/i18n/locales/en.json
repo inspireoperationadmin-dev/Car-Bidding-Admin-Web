@@ -1,0 +1,11 @@
+{
+  "common": {
+    "appName": "Car Bidding Admin",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout"
+  }
+}

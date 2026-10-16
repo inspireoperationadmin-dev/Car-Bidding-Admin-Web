@@ -1,0 +1,11 @@
+{
+  "common": {
+    "appName": "Administration des enchères automobiles",
+    "save": "Enregistrer",
+    "cancel": "Annuler"
+  },
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion"
+  }
+}
